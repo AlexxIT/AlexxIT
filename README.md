@@ -13,7 +13,7 @@
 - [YandexStation](https://github.com/AlexxIT/YandexStation) - Управление Яндекс.Станцией и другими колонками с Алисой из Home Assistant
 - [YandexDialogs](https://github.com/AlexxIT/YandexDialogs) - Компонент для управления Home Assistant через Яндекс.Диалоги
 - [MorphNumbers](https://github.com/AlexxIT/MorphNumbers) - Компонент Home Assistant для работы с числительными в Jinja2
-- [Gyver Lamp](https://github.com/AlexxIT/GyverLamp) - Home Assistant компонент для интеграции лампы Гайвера на оригинальной прошивке
+- [Gyver Lamp](https://github.com/AlexxIT/GyverLamp) - Home Assistant компонент для интеграции [лампы Гайвера](https://alexgyver.ru/gyverlamp/) на оригинальной прошивке
 - Мой [Telegram](https://t.me/AlexxIT_SmartHome) канал с самыми свежими новостями
 - Спасибо на [Яндекс.Деньги](https://money.yandex.ru/to/41001428278477)
 
