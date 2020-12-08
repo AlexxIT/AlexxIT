@@ -50,3 +50,5 @@
 
 - [DashCast](https://github.com/AlexxIT/DashCast)
 - [MediaExtractorPro](https://github.com/AlexxIT/MediaExtractorPro)
+
+[![AlexxIT](https://github-readme-stats.vercel.app/api?username=alexxit&hide=prs,issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
