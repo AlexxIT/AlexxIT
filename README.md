@@ -3,6 +3,7 @@
 - [SonoffLAN](https://github.com/AlexxIT/SonoffLAN) - Control Sonoff Devices with eWeLink (original) firmware over LAN and/or Cloud from Home Assistant
 - [Xiaomi Gateway 3](https://github.com/AlexxIT/XiaomiGateway3) - Control Zigbee and BLE devices from Home Assistant with Xiaomi Gateway 3 (ZNDMWG03LM) on original firmware
 - [HassWP](https://github.com/AlexxIT/HassWP) - Portable version of Home Assistant for Windows (no need to install)
+- [Dataplicity](https://github.com/AlexxIT/Dataplicity) - Public HTTPS access to Home Assistant with Dataplicity service
 - [PythonScriptsPro](https://github.com/AlexxIT/PythonScriptsPro) - Advanced version of python scripts for Home Assistant without limits
 - [StartTime](https://github.com/AlexxIT/StartTime) - Start Time sensor for Home Assistant
 - My [YouTube](https://www.youtube.com/c/AlexxIT) channel with english and russian content
