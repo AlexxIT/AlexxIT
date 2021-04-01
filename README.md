@@ -4,6 +4,7 @@
 - [Xiaomi Gateway 3](https://github.com/AlexxIT/XiaomiGateway3) - Control Zigbee, BLE and Mesh devices from Home Assistant with Xiaomi Gateway 3 (ZNDMWG03LM) on original firmware
 - [HassWP](https://github.com/AlexxIT/HassWP) - Portable version of Home Assistant for Windows (no need to install)
 - [Dataplicity](https://github.com/AlexxIT/Dataplicity) - Public HTTPS access to Home Assistant with Dataplicity service
+- [VacuumZones](https://github.com/AlexxIT/VacuumZones) - Control zone cleaning for Xiaomi vacuum cleaners from voice assistants
 - [PythonScriptsPro](https://github.com/AlexxIT/PythonScriptsPro) - Advanced version of python scripts for Home Assistant without limits
 - [StartTime](https://github.com/AlexxIT/StartTime) - Start Time sensor for Home Assistant
 - My [YouTube](https://www.youtube.com/c/AlexxIT) channel with english and russian content
