@@ -5,6 +5,7 @@
 - [HassWP](https://github.com/AlexxIT/HassWP) - Portable version of Home Assistant for Windows (no need to install)
 - [Dataplicity](https://github.com/AlexxIT/Dataplicity) - Public HTTPS access to Home Assistant with Dataplicity service
 - [VacuumZones](https://github.com/AlexxIT/VacuumZones) - Control zone cleaning for Xiaomi vacuum cleaners from voice assistants
+- [RTSP2WebRTC](https://github.com/AlexxIT/hassio-addons) - watch an [RTSP](https://en.wikipedia.org/wiki/Real_Time_Streaming_Protocol) stream in **real time** (without any delay) using [WebRTC](https://en.wikipedia.org/wiki/WebRTC) technology
 - [PythonScriptsPro](https://github.com/AlexxIT/PythonScriptsPro) - Advanced version of python scripts for Home Assistant without limits
 - [StartTime](https://github.com/AlexxIT/StartTime) - Start Time sensor for Home Assistant
 - My [YouTube](https://www.youtube.com/c/AlexxIT) channel with english and russian content
