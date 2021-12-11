@@ -35,7 +35,7 @@ Project | Language | Description | HACS | GUI | Brands
 - [Подключаем](https://sprut.ai/client/blog/3254) старый кондиционер к Home Assistant (за две минуты без DIY)
 - [Управление](https://sprut.ai/client/blog/2488) устройствами Sonoff на прошивке eWeLink из Home Assistant - SonoffLAN 2.0
 - Простой [внешний доступ](https://sprut.ai/client/blog/2431) в Hass.io для белого IP
-- Простой [внешний доступ](https://sprut.ai/client/blog/2487) в Hass.io для серого IP (версия 1)
+- Простой [внешний доступ](https://ivan.bessarabov.ru/wiki/home-assistant/remote-access/custom-component-dataplicity) в Hass.io для серого IP
 - [Chromecast](https://sprut.ai/client/blog/2327), мультирум и Home Assistant
 - [Запуск сайтов](https://sprut.ai/client/blog/2326) на Chromecast из Home Assistant
 - Home Assistant, [Python и Docker](https://sprut.ai/client/blog/1611)
