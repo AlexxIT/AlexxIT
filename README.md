@@ -1,6 +1,6 @@
 Project | Language | Description | HACS | GUI | Brands
 --------|----------|-------------|------|-----|-------
-[SonoffLAN](https://github.com/AlexxIT/SonoffLAN) | English | Control Sonoff Devices with eWeLink (original) firmware over LAN and/or Cloud from Home Assistant | **default** | no | yes
+[SonoffLAN](https://github.com/AlexxIT/SonoffLAN) | English | Control Sonoff Devices with eWeLink (original) firmware over LAN and/or Cloud from Home Assistant | **default** | yes | yes
 [XiaomiGateway3](https://github.com/AlexxIT/XiaomiGateway3) | International | Control Zigbee, BLE and Mesh devices from Home Assistant with Xiaomi Gateway 3 (ZNDMWG03LM) on original firmware | **default** | yes | yes
 [WebRTC](https://github.com/AlexxIT/WebRTC) | English | View an camera [RTSP](https://en.wikipedia.org/wiki/Real_Time_Streaming_Protocol)-stream in **real time** (without any delay) using [WebRTC](https://en.wikipedia.org/wiki/WebRTC) technology | **default** | yes | yes
 [HassWP](https://github.com/AlexxIT/HassWP) | English | Portable version of Home Assistant for Windows (no need to install) | - | - | -
