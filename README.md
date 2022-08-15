@@ -18,12 +18,11 @@ Project | Language | Description | HACS | GUI | Brands
 ### International links
 
 - My [YouTube](https://www.youtube.com/c/AlexxIT) channel with english and russian content
-- Thanks to [PayPal](https://www.buymeacoffee.com/AlexxIT)
 
 ### Russian-speaking links
 
 - Мой [Telegram](https://t.me/AlexxIT_SmartHome) канал с самыми свежими новостями
-- Спасибо на [Яндекс.Деньги](https://money.yandex.ru/to/41001428278477)
+- Спасибо на [ЮMoney](https://yoomoney.ru/to/41001428278477)
 
 ### Russian-speaking articles
 
