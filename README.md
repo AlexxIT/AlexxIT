@@ -1,7 +1,7 @@
 *Unfortunately, after February 2022 you can't buy me coffee and I can't buy software and goods from foreign countries.*  
 *If you want to help development, you can gift me the licenses for: [JetBrains PyCharm](https://www.jetbrains.com/pycharm/), [JetBrains GoLand](https://www.jetbrains.com/go/), [GitKraken](https://www.gitkraken.com/), [Parallels Desktop 18](https://www.parallels.com/products/desktop/).*
 
-## My projects
+## Main projects
 
 1. [go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
    - golang, RTP, SRTP, RTSP, SDP, RTMP, WebRTC, HomeKit, fMP4, MSE, MJPEG, HLS, H264, ONVIF backchannel, REST, WebSocket, STUN, TURN, Docker, FFmpeg, Ngrok
@@ -14,7 +14,7 @@
 5. [HassWP](https://github.com/AlexxIT/HassWP) - Portable version of Home Assistant for Windows (no need to install)
    - Windows batch scripts, Python Virtual Environments
 
-## Other
+## Other projects
 
 1. [Dataplicity](https://github.com/AlexxIT/Dataplicity) - Public HTTPS access to Home Assistant with Dataplicity service
 2. [StartTime](https://github.com/AlexxIT/StartTime) - Start Time sensor for Home Assistant
@@ -23,7 +23,7 @@
 5. [DashCast](https://github.com/AlexxIT/DashCast) - Cast any site from Home Assitant to Chromecast
 6. [SSHCommand](https://github.com/AlexxIT/SSHCommand) - Run SSH commands on remote host from Home Assistant
 
-## Russian
+## Russian projects
 
 1. [YandexStation](https://github.com/AlexxIT/YandexStation) - Управление Яндекс.Станцией и другими колонками с Алисой из Home Assistant
      - Python, REST, WebSocket, mDNS, TTS, NLU, Audio streaming, DLNA
@@ -36,14 +36,12 @@
 - Telegram [@AlexxIT](https://t.me/AlexxIT) (preferred)
 - Discord `AlexxIT#0816`
 
-## Links
-
-**English**
+## English links
 
 - My [Blog](https://github.com/AlexxIT/Blog)
 - My [YouTube](https://www.youtube.com/c/AlexxIT) channel
 
-**Russian**
+## Russian links
 
 - Мой [Telegram](https://t.me/AlexxIT_SmartHome) канал
 - Ссылки на [статьи](https://github.com/AlexxIT/AlexxIT/blob/master/ARTICLES.md)
