@@ -1,56 +1,52 @@
-Project | Language | Description | HACS | GUI | Brands
---------|----------|-------------|------|-----|-------
-[SonoffLAN](https://github.com/AlexxIT/SonoffLAN) | English | Control Sonoff Devices with eWeLink (original) firmware over LAN and/or Cloud from Home Assistant | **default** | yes | yes
-[XiaomiGateway3](https://github.com/AlexxIT/XiaomiGateway3) | International | Control Zigbee, BLE and Mesh devices from Home Assistant with Xiaomi Gateway 3 (ZNDMWG03LM) on original firmware | **default** | yes | yes
-[WebRTC](https://github.com/AlexxIT/WebRTC) | English | View an camera [RTSP](https://en.wikipedia.org/wiki/Real_Time_Streaming_Protocol)-stream in **real time** (without any delay) using [WebRTC](https://en.wikipedia.org/wiki/WebRTC) technology | **default** | yes | yes
-[HassWP](https://github.com/AlexxIT/HassWP) | English | Portable version of Home Assistant for Windows (no need to install) | - | - | -
-[Dataplicity](https://github.com/AlexxIT/Dataplicity) | English | Public HTTPS access to Home Assistant with Dataplicity service | custom | yes | yes
-[StartTime](https://github.com/AlexxIT/StartTime) | English | Start Time sensor for Home Assistant | custom | yes | yes
-[PythonScriptsPro](https://github.com/AlexxIT/PythonScriptsPro) | English | Advanced version of python scripts for Home Assistant without limits | custom | no | no
-[VacuumZones](https://github.com/AlexxIT/VacuumZones) | English | Control zone cleaning for Xiaomi vacuum cleaners from voice assistants | custom | no | no
-[DashCast](https://github.com/AlexxIT/DashCast) | English | Cast any site from Home Assitant to Chromecast | custom | yes | no
-[SSHCommand](https://github.com/AlexxIT/SSHCommand) | English | Run SSH commands on remote host from Home Assistant | custom | yes | no
-[YandexStation](https://github.com/AlexxIT/YandexStation) | Russian | Управление Яндекс.Станцией и другими колонками с Алисой из Home Assistant | **default** | yes | yes
-[YandexDialogs](https://github.com/AlexxIT/YandexDialogs) | Russian | Управление Home Assistant через Яндекс.Диалоги | custom | yes | no
-[MorphNumbers](https://github.com/AlexxIT/MorphNumbers) | Russian | Компонент Home Assistant для работы с числительными в Jinja2 | custom | yes | yes
-[GyverLamp](https://github.com/AlexxIT/GyverLamp) | Russian | Home Assistant компонент для интеграции [лампы Гайвера](https://alexgyver.ru/gyverlamp/) на оригинальной прошивке | custom | yes | yes
+*Unfortunately, after February 2022 you can't buy me coffee and I can't buy software and goods from foreign countries.*  
+*If you want to help development, you can gift me the licenses for: [JetBrains PyCharm](https://www.jetbrains.com/pycharm/), [JetBrains GoLand](https://www.jetbrains.com/go/), [GitKraken](https://www.gitkraken.com/), [Parallels Desktop 18](https://www.parallels.com/products/desktop/).*
 
-### International links
+## My projects
 
-- My [YouTube](https://www.youtube.com/c/AlexxIT) channel with english and russian content
+1. [go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
+   - golang, RTP, SRTP, RTSP, SDP, RTMP, WebRTC, HomeKit, fMP4, MSE, MJPEG, HLS, H264, ONVIF backchannel, REST, WebSocket, STUN, TURN, Docker, FFmpeg, Ngrok
+2. [SonoffLAN](https://github.com/AlexxIT/SonoffLAN) - Control Sonoff Devices with eWeLink (original) firmware over LAN and/or Cloud from Home Assistant
+   - Python, REST, WebSocket, mDNS, RF433
+3. [XiaomiGateway3](https://github.com/AlexxIT/XiaomiGateway3) - Control Zigbee, BLE and Mesh devices from Home Assistant with Xiaomi Gateway 3 on original firmware
+   - Python, bash, Telnet, REST, MIPS, Assembler, MQTT, Bluetooth Mesh, Bluetooth BLE, MiBeacon, Silicon Labs EFR32, Zigbee EZSP, ZHA, zigbee2mqtt
+4. [WebRTC Camera](https://github.com/AlexxIT/WebRTC) - View an camera RTSP-stream in real time (without any delay) using WebRTC technology
+   - Python, golang, RTSP, WebRTC, MSE, STUN, TURN, Chromecast
+5. [HassWP](https://github.com/AlexxIT/HassWP) - Portable version of Home Assistant for Windows (no need to install)
+   - Windows batch scripts, Python Virtual Environments
 
-### Russian-speaking links
+## Other
 
-- Мой [Telegram](https://t.me/AlexxIT_SmartHome) канал с самыми свежими новостями
+1. [Dataplicity](https://github.com/AlexxIT/Dataplicity) - Public HTTPS access to Home Assistant with Dataplicity service
+2. [StartTime](https://github.com/AlexxIT/StartTime) - Start Time sensor for Home Assistant
+3. [PythonScriptsPro](https://github.com/AlexxIT/PythonScriptsPro) - Advanced version of python scripts for Home Assistant without limits
+4. [VacuumZones](https://github.com/AlexxIT/VacuumZones) - Control zone cleaning for Xiaomi vacuum cleaners from voice assistants
+5. [DashCast](https://github.com/AlexxIT/DashCast) - Cast any site from Home Assitant to Chromecast
+6. [SSHCommand](https://github.com/AlexxIT/SSHCommand) - Run SSH commands on remote host from Home Assistant
+
+## Russian
+
+1. [YandexStation](https://github.com/AlexxIT/YandexStation) - Управление Яндекс.Станцией и другими колонками с Алисой из Home Assistant
+     - Python, REST, WebSocket, mDNS, TTS, NLU, Audio streaming, DLNA
+2. [YandexDialogs](https://github.com/AlexxIT/YandexDialogs) - Управление Home Assistant через Яндекс.Диалоги
+3. [MorphNumbers](https://github.com/AlexxIT/MorphNumbers) - Компонент Home Assistant для работы с числительными в Jinja2
+4. [GyverLamp](https://github.com/AlexxIT/GyverLamp) - Home Assistant компонент для интеграции лампы Гайвера на оригинальной прошивке
+
+## Contacts
+
+- Telegram [@AlexxIT](https://t.me/AlexxIT) (preferred)
+- Discord `AlexxIT#0816`
+
+## Links
+
+**English**
+
+- My [Blog](https://github.com/AlexxIT/Blog)
+- My [YouTube](https://www.youtube.com/c/AlexxIT) channel
+
+**Russian**
+
+- Мой [Telegram](https://t.me/AlexxIT_SmartHome) канал
+- Ссылки на [статьи](https://github.com/AlexxIT/AlexxIT/blob/master/ARTICLES.md)
 - Спасибо на [ЮMoney](https://yoomoney.ru/to/41001428278477)
-
-### Russian-speaking articles
-
-**Home Assistant**
-- [Подключаем](https://habr.com/ru/post/519644/) новый Xiaomi Gateway 3 к Home Assistant без паяльника и смс
-- [Управление](https://habr.com/ru/post/508106/) Яндекс.Станцией и другими колонками с Алисой из Home Assistant
-- [Запускаем](https://sprut.ai/client/blog/2809) Home Assistant на Windows (Portable)
-- Удобная [настройка](https://sprut.ai/client/blog/3180) (конфигурация) Home Assistant
-- [Подключаем](https://sprut.ai/client/blog/3254) старый кондиционер к Home Assistant (за две минуты без DIY)
-- [Управление](https://sprut.ai/client/blog/2488) устройствами Sonoff на прошивке eWeLink из Home Assistant - SonoffLAN 2.0
-- Простой [внешний доступ](https://sprut.ai/client/blog/2431) в Hass.io для белого IP
-- Простой [внешний доступ](https://ivan.bessarabov.ru/wiki/home-assistant/remote-access/custom-component-dataplicity) в Hass.io для серого IP
-- [Chromecast](https://sprut.ai/client/blog/2327), мультирум и Home Assistant
-- [Запуск сайтов](https://sprut.ai/client/blog/2326) на Chromecast из Home Assistant
-- Home Assistant, [Python и Docker](https://sprut.ai/client/blog/1611)
-
-**Hass.io + Node-RED**
-- [Прогрессивный таймер](https://sprut.ai/client/blog/2486) движения в Hass.io на Node-RED
-- [Автоматизация света](https://sprut.ai/client/blog/2009) в Hass.io на Node-RED
-- Ещё [пара автоматизаций](https://sprut.ai/client/blog/2071) света в Hass.io на Node-RED
-- [Включаем свет](https://sprut.ai/client/blog/2257) в ванной с двух датчиков
-- [Следим за батарейками](https://sprut.ai/client/blog/2061) датчиков в Hass.io на Node-RED
-
-**Общее**
-- [Делаем](https://sprut.ai/client/blog/1582) из старого глупого замка - умный
-- Отказоустойчивое [управление светом](https://sprut.ai/client/blog/2309) в умном доме
-- [Мифы и заблуждения](https://sprut.ai/client/blog/2377) про Xiaomi Mi Home
-- Wi-Fi [выключатели без нуля](https://sprut.ai/client/blog/1999) в круглый подрозетник
-- [Удалённое включение](https://sprut.ai/client/blog/1615) компьютера без LAN
 
 [![AlexxIT](https://github-readme-stats.vercel.app/api?username=alexxit&hide=prs,issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
