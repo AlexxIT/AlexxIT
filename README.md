@@ -4,13 +4,13 @@
 ## Main projects
 
 1. [go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
-   - golang, RTP, SRTP, RTSP, SDP, RTMP, WebRTC, HomeKit, fMP4, MSE, MJPEG, HLS, H264, ONVIF backchannel, REST, WebSocket, STUN, TURN, Docker, FFmpeg, Ngrok
+   - golang, RTP, SRTP, RTSP, SDP, RTMP, WebRTC, HomeKit, fMP4, MSE, MJPEG, HLS, H264, ONVIF backchannel, REST, WebSocket, STUN, TURN, mDNS, Docker, FFmpeg, Ngrok
 2. [SonoffLAN](https://github.com/AlexxIT/SonoffLAN) - Control Sonoff Devices with eWeLink (original) firmware over LAN and/or Cloud from Home Assistant
-   - Python, REST, WebSocket, mDNS, RF433
+   - Python, REST, WebSocket, mDNS, RF433, eWeLink API
 3. [XiaomiGateway3](https://github.com/AlexxIT/XiaomiGateway3) - Control Zigbee, BLE and Mesh devices from Home Assistant with Xiaomi Gateway 3 on original firmware
-   - Python, bash, Telnet, REST, MIPS, Assembler, MQTT, Bluetooth Mesh, Bluetooth BLE, MiBeacon, Silicon Labs EFR32, Zigbee EZSP, ZHA, zigbee2mqtt
+   - Python, bash, Telnet, REST, MIPS, Assembler, MQTT, MiIO, MIoT, Bluetooth Mesh, Bluetooth BLE, MiBeacon, Silicon Labs EFR32, Zigbee EZSP, ZHA, zigbee2mqtt
 4. [WebRTC Camera](https://github.com/AlexxIT/WebRTC) - View an camera RTSP-stream in real time (without any delay) using WebRTC technology
-   - Python, golang, RTSP, WebRTC, MSE, STUN, TURN, Chromecast
+   - Python, golang, RTSP, WebRTC, MSE, STUN, TURN Chromecast
 5. [HassWP](https://github.com/AlexxIT/HassWP) - Portable version of Home Assistant for Windows (no need to install)
    - Windows batch scripts, Python Virtual Environments
 
