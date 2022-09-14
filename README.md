@@ -36,15 +36,21 @@
 - Telegram [@AlexxIT](https://t.me/AlexxIT) (preferred)
 - Discord `AlexxIT#0816`
 
-## English links
+## Links
 
-- My [Blog](https://github.com/AlexxIT/Blog)
-- My [YouTube](https://www.youtube.com/c/AlexxIT) channel
+- My [Blog](https://github.com/AlexxIT/Blog) (english)
+- My [YouTube](https://www.youtube.com/c/AlexxIT) channel (english and russian)
+- Мой [Telegram](https://t.me/AlexxIT_SmartHome) канал (russian)
+- Ссылки на [статьи](https://github.com/AlexxIT/AlexxIT/blob/master/ARTICLES.md) (russian)
 
-## Russian links
+## Donation
 
-- Мой [Telegram](https://t.me/AlexxIT_SmartHome) канал
-- Ссылки на [статьи](https://github.com/AlexxIT/AlexxIT/blob/master/ARTICLES.md)
-- Спасибо на [ЮMoney](https://yoomoney.ru/to/41001428278477)
+[ЮMoney](https://yoomoney.ru/to/41001428278477) (если вы в России)
+
+```
+BTC: bc1qd826y7z7t3k5rfk2vvuzsprmep4uncq0ux2dya
+ETH: 0xC1b61c51a66bAD79C71137D47F3e1789d9fB5985
+TRC20: TVnuJ5g5qz9F2UncCWV3wLch7ZkJL6Hj95
+```
 
 [![AlexxIT](https://github-readme-stats.vercel.app/api?username=alexxit&hide=prs,issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
