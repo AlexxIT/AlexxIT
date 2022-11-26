@@ -1,5 +1,5 @@
 *Unfortunately, after February 2022 you can't buy me coffee and I can't buy software and goods from foreign countries.*  
-*If you want to help development, you can gift me the licenses for: [JetBrains PyCharm](https://www.jetbrains.com/pycharm/), [JetBrains GoLand](https://www.jetbrains.com/go/), [GitKraken](https://www.gitkraken.com/), [Parallels Desktop 18](https://www.parallels.com/products/desktop/).*
+*If you want to help development, you can gift me the licenses for: [JetBrains PyCharm](https://www.jetbrains.com/pycharm/), [JetBrains GoLand](https://www.jetbrains.com/go/), [GitKraken](https://www.gitkraken.com/), ~~[Parallels Desktop 18](https://www.parallels.com/products/desktop/)~~.*
 
 ## Main projects
 
