@@ -1,5 +1,5 @@
 *Unfortunately, after February 2022 you can't buy me coffee and I can't buy software and goods from foreign countries.*  
-*If you want to help development, you can gift me the licenses for: [JetBrains PyCharm](https://www.jetbrains.com/pycharm/), [JetBrains GoLand](https://www.jetbrains.com/go/), [GitKraken](https://www.gitkraken.com/), ~~[Parallels Desktop 18](https://www.parallels.com/products/desktop/)~~.*
+*If you want to help development, you can gift me the licenses for: [JetBrains PyCharm](https://www.jetbrains.com/pycharm/), [JetBrains GoLand](https://www.jetbrains.com/go/), [GitKraken](https://www.gitkraken.com/).*
 
 ## Main projects
 
@@ -42,6 +42,15 @@
 - My [YouTube](https://www.youtube.com/c/AlexxIT) channel (english and russian)
 - Мой [Telegram](https://t.me/AlexxIT_SmartHome) канал (russian)
 - Ссылки на [статьи](https://github.com/AlexxIT/AlexxIT/blob/master/ARTICLES.md) (russian)
+
+## Hardware
+
+| Task | Device | Arch |
+|------|--------|------|
+| for live    | MacBook Pro M1    | mac arm64 + amd64 |
+| for dev     | Parallels Desktop | win arm64 + amd64 |
+| home server | Intel Nuc 10 i3   | linux amd64         |
+| test server | Raspberry Pi 3    | linux arm           |
 
 ## Donation
 
