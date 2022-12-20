@@ -1,6 +1,3 @@
-*Unfortunately, after February 2022 you can't buy me coffee and I can't buy software and goods from foreign countries.*  
-*If you want to help development, you can gift me the licenses for: [JetBrains PyCharm](https://www.jetbrains.com/pycharm/), [JetBrains GoLand](https://www.jetbrains.com/go/), [GitKraken](https://www.gitkraken.com/).*
-
 ## Main projects
 
 1. [go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
