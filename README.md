@@ -35,7 +35,7 @@
 2. [StartTime](https://github.com/AlexxIT/StartTime) - Start Time sensor for Home Assistant
 3. [PythonScriptsPro](https://github.com/AlexxIT/PythonScriptsPro) - Advanced version of python scripts for Home Assistant without limits
 4. [VacuumZones](https://github.com/AlexxIT/VacuumZones) - Control zone cleaning for Xiaomi vacuum cleaners from voice assistants
-5. [DashCast](https://github.com/AlexxIT/DashCast) - Cast any site from Home Assitant to Chromecast
+5. [DashCast](https://github.com/AlexxIT/DashCast) - Cast any site from Home Assistant to Chromecast
 6. [SSHCommand](https://github.com/AlexxIT/SSHCommand) - Run SSH commands on remote host from Home Assistant
 
 ## Russian projects
