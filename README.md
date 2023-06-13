@@ -15,13 +15,13 @@
 
 1. [go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application  
    [![](https://img.shields.io/github/stars/AlexxIT/go2rtc?style=flat-square&logo=github)][2] [![](https://img.shields.io/docker/pulls/alexxit/go2rtc?style=flat-square&logo=docker&logoColor=white&label=pulls)][3] [![](https://img.shields.io/github/downloads/AlexxIT/go2rtc/total?color=blue&style=flat-square&logo=github)][10]  
-   golang, RTP, SRTP, RTSP, SDP, RTMP, WebRTC, HomeKit, fMP4, MSE, MJPEG, HLS, H264, ONVIF backchannel, REST, WebSocket, STUN, TURN, mDNS, Docker, FFmpeg, Ngrok
+   Golang, RTP, SRTP, RTSP, SDP, RTMP, WebRTC, HomeKit, fMP4, MSE, MJPEG, HLS, H264, ONVIF backchannel, REST, WebSocket, STUN, TURN, mDNS, Docker, FFmpeg, Ngrok
 2. [SonoffLAN](https://github.com/AlexxIT/SonoffLAN) - Control Sonoff Devices with eWeLink (original) firmware over LAN and/or Cloud from Home Assistant  
    [![](https://img.shields.io/github/stars/AlexxIT/SonoffLAN?style=flat-square&logo=github)][4] ![](https://img.shields.io/github/forks/AlexxIT/SonoffLAN?style=flat-square&logo=github)  
    Python, REST, WebSocket, mDNS, RF433, eWeLink API
 3. [XiaomiGateway3](https://github.com/AlexxIT/XiaomiGateway3) - Control Zigbee, BLE and Mesh devices from Home Assistant with Xiaomi Gateway 3 on original firmware  
    [![](https://img.shields.io/github/stars/AlexxIT/XiaomiGateway3?style=flat-square&logo=github)][5] ![](https://img.shields.io/github/forks/AlexxIT/XiaomiGateway3?style=flat-square&logo=github)  
-   Python, bash, Telnet, REST, MIPS, Assembler, MQTT, miIO, MIoT, Bluetooth Mesh, Bluetooth BLE, MiBeacon, Silicon Labs EFR32, Zigbee EZSP, ZHA, zigbee2mqtt
+   Python, bash, Telnet, REST, MQTT, miIO, MIoT, Bluetooth Mesh, Bluetooth BLE, MiBeacon, Silicon Labs EFR32, Zigbee EZSP, ZHA, zigbee2mqtt
 4. [WebRTC Camera](https://github.com/AlexxIT/WebRTC) - View an camera RTSP-stream in real time (without any delay) using WebRTC technology  
    [![](https://img.shields.io/github/stars/AlexxIT/WebRTC?style=flat-square&logo=github)][6] ![](https://img.shields.io/github/forks/AlexxIT/WebRTC?style=flat-square&logo=github)  
    Python, golang, RTSP, WebRTC, MSE, STUN, TURN, Chromecast
@@ -29,7 +29,7 @@
    [![](https://img.shields.io/github/stars/AlexxIT/HassWP?style=flat-square&logo=github)][7] [![](https://img.shields.io/github/downloads/AlexxIT/HassWP/total?color=blue&style=flat-square&logo=github)][8]  
    Windows batch scripts, Python Virtual Environments
 6. [OpenmiIO](https://github.com/AlexxIT/openmiio_agent) - Daemon app for Xiaomi Gateways  
-   golang, MIPS, ARM, MQTT, miIO, UART, Silicon Labs EFR32
+   Golang, MIPS, ARM, MQTT, miIO, serial, Silicon Labs EFR32, Lua, JSON-RPC
 
 ## Other projects
 
