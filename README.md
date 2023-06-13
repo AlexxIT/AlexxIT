@@ -28,6 +28,8 @@
 5. [HassWP](https://github.com/AlexxIT/HassWP) - Portable version of Home Assistant for Windows (no need to install)  
    [![](https://img.shields.io/github/stars/AlexxIT/HassWP?style=flat-square&logo=github)][7] [![](https://img.shields.io/github/downloads/AlexxIT/HassWP/total?color=blue&style=flat-square&logo=github)][8]  
    Windows batch scripts, Python Virtual Environments
+6. [OpenmiIO](https://github.com/AlexxIT/openmiio_agent) - Daemon app for Xiaomi Gateways  
+   golang, MIPS, ARM, MQTT, miIO, UART, Silicon Labs EFR32
 
 ## Other projects
 
@@ -37,6 +39,9 @@
 4. [VacuumZones](https://github.com/AlexxIT/VacuumZones) - Control zone cleaning for Xiaomi vacuum cleaners from voice assistants
 5. [DashCast](https://github.com/AlexxIT/DashCast) - Cast any site from Home Assistant to Chromecast
 6. [SSHCommand](https://github.com/AlexxIT/SSHCommand) - Run SSH commands on remote host from Home Assistant
+7. [StartTime](https://github.com/AlexxIT/StartTime) - Start Time sensor for Home Assistant
+8. [StreamAssist](https://github.com/AlexxIT/StreamAssist) - Turn almost any camera and almost any speaker into a local voice assistant
+9. [FasterWhisper](https://github.com/AlexxIT/FasterWhisper) - Local Speech-to-Text engine for Home Assistant
 
 ## Russian projects
 
