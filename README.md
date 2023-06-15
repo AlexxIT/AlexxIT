@@ -55,7 +55,7 @@
 ## Contacts
 
 - Telegram [@AlexxIT](https://t.me/AlexxIT) (preferred)
-- Discord [AlexxIT#0816](https://discordapp.com/users/AlexxIT#0816)
+- Discord [AlexxIT](https://discordapp.com/users/AlexxIT)
 
 ## Links
 
