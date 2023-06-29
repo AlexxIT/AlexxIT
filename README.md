@@ -14,7 +14,7 @@
 ## Main projects
 
 1. [go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application  
-   [![](https://img.shields.io/github/stars/AlexxIT/go2rtc?style=flat-square&logo=github)][2] [![](https://img.shields.io/docker/pulls/alexxit/go2rtc?style=flat-square&logo=docker&logoColor=white&label=pulls)][3] [![](https://img.shields.io/github/downloads/AlexxIT/go2rtc/total?color=blue&style=flat-square&logo=github)][10]  
+   [![](https://img.shields.io/github/stars/AlexxIT/go2rtc?style=flat-square&logo=github)][2] ![](https://img.shields.io/github/forks/AlexxIT/go2rtc?style=flat-square&logo=github) [![](https://img.shields.io/docker/pulls/alexxit/go2rtc?style=flat-square&logo=docker&logoColor=white&label=pulls)][3] [![](https://img.shields.io/github/downloads/AlexxIT/go2rtc/total?color=blue&style=flat-square&logo=github)][10]  
    Golang, RTP, SRTP, RTSP, SDP, RTMP, WebRTC, HomeKit, fMP4, MSE, MJPEG, HLS, H264, ONVIF backchannel, REST, WebSocket, STUN, TURN, mDNS, Docker, FFmpeg, Ngrok
 2. [SonoffLAN](https://github.com/AlexxIT/SonoffLAN) - Control Sonoff Devices with eWeLink (original) firmware over LAN and/or Cloud from Home Assistant  
    [![](https://img.shields.io/github/stars/AlexxIT/SonoffLAN?style=flat-square&logo=github)][4] ![](https://img.shields.io/github/forks/AlexxIT/SonoffLAN?style=flat-square&logo=github)  
