@@ -47,7 +47,8 @@
 1. [YandexStation](https://github.com/AlexxIT/YandexStation) - Управление Яндекс.Станцией и другими колонками с Алисой из Home Assistant  
    [![](https://img.shields.io/github/stars/AlexxIT/YandexStation?style=flat-square&logo=github)][9] ![](https://img.shields.io/github/forks/AlexxIT/YandexStation?style=flat-square&logo=github)  
    Python, REST, WebSocket, mDNS, TTS, NLU, Audio streaming, DLNA
-2. [YandexDialogs](https://github.com/AlexxIT/YandexDialogs) - Управление Home Assistant через Яндекс.Диалоги
+2. [YandexDialogs](https://github.com/AlexxIT/YandexDialogs) - Управление Home Assistant через Яндекс.Диалоги  
+   ![](https://img.shields.io/github/stars/AlexxIT/YandexDialogs?style=flat-square&logo=github)
 3. [MorphNumbers](https://github.com/AlexxIT/MorphNumbers) - Компонент Home Assistant для работы с числительными в Jinja2
 4. [GyverLamp](https://github.com/AlexxIT/GyverLamp) - Home Assistant компонент для интеграции лампы Гайвера на оригинальной прошивке
 
