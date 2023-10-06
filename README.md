@@ -31,16 +31,16 @@
 
 ## Other projects
 
-1. [Dataplicity](https://github.com/AlexxIT/Dataplicity) - Public HTTPS access to Home Assistant with Dataplicity service
-2. [StartTime](https://github.com/AlexxIT/StartTime) - Start Time sensor for Home Assistant
-3. [PythonScriptsPro](https://github.com/AlexxIT/PythonScriptsPro) - Advanced version of python scripts for Home Assistant without limits
-4. [VacuumZones](https://github.com/AlexxIT/VacuumZones) - Control zone cleaning for Xiaomi vacuum cleaners from voice assistants
-5. [DashCast](https://github.com/AlexxIT/DashCast) - Cast any site from Home Assistant to Chromecast
-6. [SSHCommand](https://github.com/AlexxIT/SSHCommand) - Run SSH commands on remote host from Home Assistant
-7. [StreamAssist](https://github.com/AlexxIT/StreamAssist) - Turn almost any camera and almost any speaker into a local voice assistant
-8. [FasterWhisper](https://github.com/AlexxIT/FasterWhisper) - Local Speech-to-Text engine for Home Assistant
-9. [OpenmiIO](https://github.com/AlexxIT/openmiio_agent) - Daemon app for Xiaomi Gateways  
+1. [DashCast](https://github.com/AlexxIT/DashCast) - Cast any site from Home Assistant to Chromecast
+2. [Dataplicity](https://github.com/AlexxIT/Dataplicity) - Public HTTPS access to Home Assistant with Dataplicity service
+3. [Ergomotion Smart Beds](https://github.com/AlexxIT/Ergomotion) - Control Ergomotion Smart Beds via Bluetooth module from Home Assistant
+4. [FasterWhisper](https://github.com/AlexxIT/FasterWhisper) - Local Speech-to-Text engine for Home Assistant
+5. [Jura Coffee Machines](https://github.com/AlexxIT/Jura) - Control Jura Coffee Machines via Bluetooth module from Home Assistant
+6. [OpenmiIO](https://github.com/AlexxIT/openmiio_agent) - Daemon app for Xiaomi Gateways  
    Golang, MIPS, ARM, MQTT, miIO, serial, Silicon Labs EFR32, Lua, JSON-RPC
+7. [PythonScriptsPro](https://github.com/AlexxIT/PythonScriptsPro) - Advanced version of python scripts for Home Assistant without limits
+8. [SSHCommand](https://github.com/AlexxIT/SSHCommand) - Run SSH commands on remote host from Home Assistant
+9. [StreamAssist](https://github.com/AlexxIT/StreamAssist) - Turn almost any camera and almost any speaker into a local voice assistant
 
 ## Russian projects
 
