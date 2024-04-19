@@ -73,6 +73,8 @@
 | home server | Intel Nuc 10 i3   | linux amd64         |
 | test server | Raspberry Pi 3    | linux arm           |
 
+My personal thanks to [JetBrains](https://www.jetbrains.com/) for great software and license for open source.
+
 ## Donation
 
 [ЮMoney](https://yoomoney.ru/to/41001428278477) (если вы в России)
