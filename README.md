@@ -80,6 +80,7 @@
 ```
 BTC: bc1qd826y7z7t3k5rfk2vvuzsprmep4uncq0ux2dya
 ETH: 0xC1b61c51a66bAD79C71137D47F3e1789d9fB5985
+TON: UQAT3xw0_edgJeEvv3HwEcs8I61TcqaKzOtADeR1ksdAUgl9
 TRC20: TVnuJ5g5qz9F2UncCWV3wLch7ZkJL6Hj95
 ```
 
