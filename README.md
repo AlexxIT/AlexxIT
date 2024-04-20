@@ -34,7 +34,7 @@
 1. [DashCast](https://github.com/AlexxIT/DashCast) - Cast any site from Home Assistant to Chromecast
 2. [Dataplicity](https://github.com/AlexxIT/Dataplicity) - Public HTTPS access to Home Assistant with Dataplicity service
 3. [Ergomotion Smart Beds](https://github.com/AlexxIT/Ergomotion) - Control Ergomotion Smart Beds via Bluetooth module from Home Assistant
-4. [FasterWhisper](https://github.com/AlexxIT/FasterWhisper) - Local Speech-to-Text engine for Home Assistant
+4. [Hass Diagnostics](https://github.com/AlexxIT/HassDiagnostics) - Diagnostics entities for Home Assistant
 5. [Jura Coffee Machines](https://github.com/AlexxIT/Jura) - Control Jura Coffee Machines via Bluetooth module from Home Assistant
 6. [OpenmiIO](https://github.com/AlexxIT/openmiio_agent) - Daemon app for Xiaomi Gateways  
    Golang, MIPS, ARM, MQTT, miIO, serial, Silicon Labs EFR32, Lua, JSON-RPC
