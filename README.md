@@ -77,7 +77,12 @@
 | home server | Intel Nuc 10 i3   | linux amd64       |
 | test server | Raspberry Pi 3    | linux arm         |
 
-My personal thanks to [JetBrains](https://www.jetbrains.com/) for great software and license for open source.
+## Hobbies
+
+In addition to programming and smart homes, I love running.  
+2024-12-12 I ran for 1,000 days in a row. In fact, every day since [go2rtc][2] has existed - I've been running.
+
+![](1000d.png)
 
 ## Donation
 
