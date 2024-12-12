@@ -70,12 +70,12 @@
 
 ## Hardware
 
-| Task | Device | Arch |
-|------|--------|------|
+| Task        | Device            | Arch              |
+|-------------|-------------------|-------------------|
 | for live    | MacBook Pro M1    | mac arm64 + amd64 |
 | for dev     | Parallels Desktop | win arm64 + amd64 |
-| home server | Intel Nuc 10 i3   | linux amd64         |
-| test server | Raspberry Pi 3    | linux arm           |
+| home server | Intel Nuc 10 i3   | linux amd64       |
+| test server | Raspberry Pi 3    | linux arm         |
 
 My personal thanks to [JetBrains](https://www.jetbrains.com/) for great software and license for open source.
 
