@@ -82,7 +82,7 @@
 In addition to programming and smart homes, I love running.  
 2024-12-12 I ran for 1,000 days in a row. In fact, every day since [go2rtc][2] has existed - I've been running.
 
-![](1000d.png)
+<img src="1000d.png" width="467" />
 
 ## Donation
 
