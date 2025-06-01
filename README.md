@@ -80,9 +80,9 @@
 ## Hobbies
 
 In addition to programming and smart homes, I love running.  
-2024-12-12 I ran for 1,000 days in a row. In fact, every day since [go2rtc][2] has existed - I've been running.
+2025-06-01 I ran for 1,171 days in a row (like Forrest Gump). In fact, every day since [go2rtc][2] has existed - I've been running.
 
-<img src="1000d.png" width="467" />
+<img src="forrest.jpg" />
 
 ## Donation
 
