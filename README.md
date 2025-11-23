@@ -11,6 +11,8 @@
 [9]: https://github.com/AlexxIT/YandexStation
 [10]: https://github.com/AlexxIT/go2rtc/releases
 
+![](projects.png)
+
 ## Main projects
 
 1. [go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application  
