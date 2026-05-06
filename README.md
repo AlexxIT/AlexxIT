@@ -11,8 +11,6 @@
 [9]: https://github.com/AlexxIT/YandexStation
 [10]: https://github.com/AlexxIT/go2rtc/releases
 
-![](projects.png)
-
 ## Main projects
 
 1. [go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application  
@@ -47,6 +45,8 @@
 8. [SSHCommand](https://github.com/AlexxIT/SSHCommand) - Run SSH commands on remote host from Home Assistant
 9. [OpenmiIO](https://github.com/AlexxIT/openmiio_agent) - Daemon app for Xiaomi Gateways  
    Golang, MIPS, ARM, MQTT, miIO, serial, Silicon Labs EFR32, Lua, JSON-RPC
+10. [Extra Sensor](https://github.com/AlexxIT/ExtraSensor) - Garmin Connect IQ DataField for additional sensors
+    MonkeyC, ANT+, BLE
 
 ## Russian projects
 
@@ -61,14 +61,20 @@
 ## Contacts
 
 - Telegram [@AlexxIT](https://t.me/AlexxIT) (preferred)
-- Discord [AlexxIT](https://discordapp.com/users/AlexxIT)
+- Email `alexxit.www@gmail.com`
 
 ## Links
 
 - My [Blog](https://github.com/AlexxIT/Blog) (english)
 - My [YouTube](https://www.youtube.com/c/AlexxIT) channel (english and russian)
 - Мой [Telegram](https://t.me/AlexxIT_SmartHome) канал (russian)
-- Ссылки на [статьи](https://github.com/AlexxIT/AlexxIT/blob/master/ARTICLES.md) (russian)
+- Мои [статьи](https://habr.com/ru/users/AlexxIT/articles/) на Хабре (russian)
+
+## Speeches
+
+[![](https://img.youtube.com/vi/7SSnh8GhxCg/mqdefault.jpg)](https://www.youtube.com/watch?v=7SSnh8GhxCg)
+[![](https://img.youtube.com/vi/dlw8T3H6NAo/mqdefault.jpg)](https://www.youtube.com/watch?v=dlw8T3H6NAo)
+[![](https://img.youtube.com/vi/DEn7ug-sJYg/mqdefault.jpg)](https://www.youtube.com/watch?v=DEn7ug-sJYg)
 
 ## Hardware
 
@@ -95,5 +101,3 @@ BTC: bc1qd826y7z7t3k5rfk2vvuzsprmep4uncq0ux2dya
 ETH  (ERC20): 0xC1b61c51a66bAD79C71137D47F3e1789d9fB5985
 USDT (TRC20): TVnuJ5g5qz9F2UncCWV3wLch7ZkJL6Hj95
 ```
-
-[![AlexxIT](https://github-readme-stats.vercel.app/api?username=alexxit&hide=prs,issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
