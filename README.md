@@ -11,52 +11,56 @@
 [9]: https://github.com/AlexxIT/YandexStation
 [10]: https://github.com/AlexxIT/go2rtc/releases
 
-## Main projects
+## 1000+ projects
 
-1. [go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application  
-   [![](https://img.shields.io/github/stars/AlexxIT/go2rtc?style=flat-square&logo=github)][2] ![](https://img.shields.io/github/forks/AlexxIT/go2rtc?style=flat-square&logo=github) [![](https://img.shields.io/docker/pulls/alexxit/go2rtc?style=flat-square&logo=docker&logoColor=white&label=pulls)][3] [![](https://img.shields.io/github/downloads/AlexxIT/go2rtc/total?color=blue&style=flat-square&logo=github)][10]  
-   Golang, RTP, SRTP, RTSP, SDP, RTMP, WebRTC, HomeKit, fMP4, MSE, MJPEG, HLS, H264, ONVIF backchannel, REST, WebSocket, STUN, TURN, mDNS, Docker, FFmpeg, Ngrok
-2. [SonoffLAN](https://github.com/AlexxIT/SonoffLAN) - Control Sonoff Devices with eWeLink (original) firmware over LAN and/or Cloud from Home Assistant  
-   [![](https://img.shields.io/github/stars/AlexxIT/SonoffLAN?style=flat-square&logo=github)][4] ![](https://img.shields.io/github/forks/AlexxIT/SonoffLAN?style=flat-square&logo=github)  
-   Python, REST, WebSocket, mDNS, RF433, eWeLink API
-3. [XiaomiGateway3](https://github.com/AlexxIT/XiaomiGateway3) - Control Zigbee, BLE and Mesh devices from Home Assistant with Xiaomi Gateway 3 on original firmware  
-   [![](https://img.shields.io/github/stars/AlexxIT/XiaomiGateway3?style=flat-square&logo=github)][5] ![](https://img.shields.io/github/forks/AlexxIT/XiaomiGateway3?style=flat-square&logo=github)  
-   Python, bash, Telnet, REST, MQTT, miIO, MIoT, Bluetooth Mesh, Bluetooth BLE, MiBeacon, Silicon Labs EFR32, Zigbee EZSP, ZHA, zigbee2mqtt
-4. [WebRTC Camera](https://github.com/AlexxIT/WebRTC) - View an camera RTSP-stream in real time (without any delay) using WebRTC technology  
-   [![](https://img.shields.io/github/stars/AlexxIT/WebRTC?style=flat-square&logo=github)][6] ![](https://img.shields.io/github/forks/AlexxIT/WebRTC?style=flat-square&logo=github)  
-   Python, golang, RTSP, WebRTC, MSE, STUN, TURN, Chromecast
-5. [HassWP](https://github.com/AlexxIT/HassWP) - Portable version of Home Assistant for Windows (no need to install)  
-   [![](https://img.shields.io/github/stars/AlexxIT/HassWP?style=flat-square&logo=github)][7] [![](https://img.shields.io/github/downloads/AlexxIT/HassWP/total?color=blue&style=flat-square&logo=github)][8]  
-   Windows batch scripts, Python Virtual Environments
+- [go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application  
+  [![](https://img.shields.io/github/stars/AlexxIT/go2rtc?style=flat-square&logo=github)][2] ![](https://img.shields.io/github/forks/AlexxIT/go2rtc?style=flat-square&logo=github) [![](https://img.shields.io/docker/pulls/alexxit/go2rtc?style=flat-square&logo=docker&logoColor=white&label=pulls)][3] [![](https://img.shields.io/github/downloads/AlexxIT/go2rtc/total?color=blue&style=flat-square&logo=github)][10]  
+  Golang, RTP, SRTP, RTSP, SDP, RTMP, WebRTC, HomeKit, fMP4, MSE, MJPEG, HLS, H264, ONVIF backchannel, REST, WebSocket, STUN, TURN, mDNS, Docker, FFmpeg, Ngrok
+- [SonoffLAN](https://github.com/AlexxIT/SonoffLAN) - Control Sonoff Devices with eWeLink (original) firmware over LAN and/or Cloud from Home Assistant  
+  [![](https://img.shields.io/github/stars/AlexxIT/SonoffLAN?style=flat-square&logo=github)][4] ![](https://img.shields.io/github/forks/AlexxIT/SonoffLAN?style=flat-square&logo=github)  
+  Python, REST, WebSocket, mDNS, RF433, eWeLink API
+- [XiaomiGateway3](https://github.com/AlexxIT/XiaomiGateway3) - Control Zigbee, BLE and Mesh devices from Home Assistant with Xiaomi Gateway 3 on original firmware  
+  [![](https://img.shields.io/github/stars/AlexxIT/XiaomiGateway3?style=flat-square&logo=github)][5] ![](https://img.shields.io/github/forks/AlexxIT/XiaomiGateway3?style=flat-square&logo=github)  
+  Python, bash, Telnet, REST, MQTT, miIO, MIoT, Bluetooth Mesh, Bluetooth BLE, MiBeacon, Silicon Labs EFR32, Zigbee EZSP, ZHA, zigbee2mqtt
+- [WebRTC Camera](https://github.com/AlexxIT/WebRTC) - View an camera RTSP-stream in real time (without any delay) using WebRTC technology  
+  [![](https://img.shields.io/github/stars/AlexxIT/WebRTC?style=flat-square&logo=github)][6] ![](https://img.shields.io/github/forks/AlexxIT/WebRTC?style=flat-square&logo=github)  
+  Python, golang, RTSP, WebRTC, MSE, STUN, TURN, Chromecast
+- [YandexStation](https://github.com/AlexxIT/YandexStation) - Управление Яндекс.Станцией и другими колонками с Алисой из Home Assistant  
+  [![](https://img.shields.io/github/stars/AlexxIT/YandexStation?style=flat-square&logo=github)][9] ![](https://img.shields.io/github/forks/AlexxIT/YandexStation?style=flat-square&logo=github)  
+  Python, REST, WebSocket, mDNS, TTS, NLU, Audio streaming, DLNA
+
+## 100+ projects
+
+- [HassWP](https://github.com/AlexxIT/HassWP) - Portable version of Home Assistant for Windows (no need to install)  
+  [![](https://img.shields.io/github/stars/AlexxIT/HassWP?style=flat-square&logo=github)][7] [![](https://img.shields.io/github/downloads/AlexxIT/HassWP/total?color=blue&style=flat-square&logo=github)][8]  
+  Windows batch scripts, Python Virtual Environments
+- [StreamAssist](https://github.com/AlexxIT/StreamAssist) - Turn almost any camera and almost any speaker into a local voice assistant  
+  ![](https://img.shields.io/github/stars/AlexxIT/StreamAssist?style=flat-square&logo=github)
+- [YandexDialogs](https://github.com/AlexxIT/YandexDialogs) - Управление Home Assistant через Яндекс.Диалоги  
+  ![](https://img.shields.io/github/stars/AlexxIT/YandexDialogs?style=flat-square&logo=github)
+- [DashCast](https://github.com/AlexxIT/DashCast) - Cast any site from Home Assistant to Chromecast  
+  ![](https://img.shields.io/github/stars/AlexxIT/DashCast?style=flat-square&logo=github)
+- [PythonScriptsPro](https://github.com/AlexxIT/PythonScriptsPro) - Advanced version of python scripts for Home Assistant without limits  
+  ![](https://img.shields.io/github/stars/AlexxIT/PythonScriptsPro?style=flat-square&logo=github)
+- [Dataplicity](https://github.com/AlexxIT/Dataplicity) - Public HTTPS access to Home Assistant with Dataplicity service  
+  ![](https://img.shields.io/github/stars/AlexxIT/Dataplicity?style=flat-square&logo=github)
+- [SSHCommand](https://github.com/AlexxIT/SSHCommand) - Run SSH commands on remote host from Home Assistant  
+  ![](https://img.shields.io/github/stars/AlexxIT/SSHCommand?style=flat-square&logo=github)
+- [SmartScaleConnect](https://github.com/AlexxIT/SmartScaleConnect) - Sync smart scale data between different ecosystems  
+  ![](https://img.shields.io/github/stars/AlexxIT/SmartScaleConnect?style=flat-square&logo=github)
+- [MorphNumbers](https://github.com/AlexxIT/MorphNumbers) - Компонент Home Assistant для работы с числительными в Jinja2  
+  ![](https://img.shields.io/github/stars/AlexxIT/SmartScaleConnect?style=flat-square&logo=github)
 
 ## Other projects
 
-1. [DashCast](https://github.com/AlexxIT/DashCast) - Cast any site from Home Assistant to Chromecast  
-   ![](https://img.shields.io/github/stars/AlexxIT/DashCast?style=flat-square&logo=github)
-2. [Dataplicity](https://github.com/AlexxIT/Dataplicity) - Public HTTPS access to Home Assistant with Dataplicity service  
-   ![](https://img.shields.io/github/stars/AlexxIT/Dataplicity?style=flat-square&logo=github)
-3. [StreamAssist](https://github.com/AlexxIT/StreamAssist) - Turn almost any camera and almost any speaker into a local voice assistant  
-   ![](https://img.shields.io/github/stars/AlexxIT/StreamAssist?style=flat-square&logo=github)
-4. [PythonScriptsPro](https://github.com/AlexxIT/PythonScriptsPro) - Advanced version of python scripts for Home Assistant without limits  
-   ![](https://img.shields.io/github/stars/AlexxIT/PythonScriptsPro?style=flat-square&logo=github)
-5. [Ergomotion Smart Beds](https://github.com/AlexxIT/Ergomotion) - Control Ergomotion Smart Beds via Bluetooth module from Home Assistant
-6. [Jura Coffee Machines](https://github.com/AlexxIT/Jura) - Control Jura Coffee Machines via Bluetooth module from Home Assistant
-7. [Hass Diagnostics](https://github.com/AlexxIT/HassDiagnostics) - Diagnostics entities for Home Assistant
-8. [SSHCommand](https://github.com/AlexxIT/SSHCommand) - Run SSH commands on remote host from Home Assistant
-9. [OpenmiIO](https://github.com/AlexxIT/openmiio_agent) - Daemon app for Xiaomi Gateways  
-   Golang, MIPS, ARM, MQTT, miIO, serial, Silicon Labs EFR32, Lua, JSON-RPC
-10. [Extra Sensor](https://github.com/AlexxIT/ExtraSensor) - Garmin Connect IQ DataField for additional sensors
-    MonkeyC, ANT+, BLE
-
-## Russian projects
-
-1. [YandexStation](https://github.com/AlexxIT/YandexStation) - Управление Яндекс.Станцией и другими колонками с Алисой из Home Assistant  
-   [![](https://img.shields.io/github/stars/AlexxIT/YandexStation?style=flat-square&logo=github)][9] ![](https://img.shields.io/github/forks/AlexxIT/YandexStation?style=flat-square&logo=github)  
-   Python, REST, WebSocket, mDNS, TTS, NLU, Audio streaming, DLNA
-2. [YandexDialogs](https://github.com/AlexxIT/YandexDialogs) - Управление Home Assistant через Яндекс.Диалоги  
-   ![](https://img.shields.io/github/stars/AlexxIT/YandexDialogs?style=flat-square&logo=github)
-3. [MorphNumbers](https://github.com/AlexxIT/MorphNumbers) - Компонент Home Assistant для работы с числительными в Jinja2
-4. [GyverLamp](https://github.com/AlexxIT/GyverLamp) - Home Assistant компонент для интеграции лампы Гайвера на оригинальной прошивке
+- [Ergomotion Smart Beds](https://github.com/AlexxIT/Ergomotion) - Control Ergomotion Smart Beds via Bluetooth module from Home Assistant
+- [Jura Coffee Machines](https://github.com/AlexxIT/Jura) - Control Jura Coffee Machines via Bluetooth module from Home Assistant
+- [Hass Diagnostics](https://github.com/AlexxIT/HassDiagnostics) - Diagnostics entities for Home Assistant
+- [OpenmiIO](https://github.com/AlexxIT/openmiio_agent) - Daemon app for Xiaomi Gateways  
+  Golang, MIPS, ARM, MQTT, miIO, serial, Silicon Labs EFR32, Lua, JSON-RPC
+- [Extra Sensor](https://github.com/AlexxIT/ExtraSensor) - Garmin Connect IQ DataField for additional sensors
+  MonkeyC, ANT+, BLE
+- [GyverLamp](https://github.com/AlexxIT/GyverLamp) - Home Assistant компонент для интеграции лампы Гайвера на оригинальной прошивке
 
 ## Contacts
 
@@ -72,9 +76,9 @@
 
 ## Speeches
 
-[![](https://img.youtube.com/vi/7SSnh8GhxCg/mqdefault.jpg)](https://www.youtube.com/watch?v=7SSnh8GhxCg)
-[![](https://img.youtube.com/vi/dlw8T3H6NAo/mqdefault.jpg)](https://www.youtube.com/watch?v=dlw8T3H6NAo)
-[![](https://img.youtube.com/vi/DEn7ug-sJYg/mqdefault.jpg)](https://www.youtube.com/watch?v=DEn7ug-sJYg)
+- [VideoTech - Real-time стриминг IP-камер в разных форматах средствами open source](https://www.youtube.com/watch?v=7SSnh8GhxCg)
+- [GolangConf - Go в умном доме: опыт успешной интеграции](https://www.youtube.com/watch?v=dlw8T3H6NAo)
+- [HighLoad++ - Open-Source-трибуна](https://www.youtube.com/watch?v=DEn7ug-sJYg)
 
 ## Hardware
 
