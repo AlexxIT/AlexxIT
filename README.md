@@ -49,7 +49,7 @@
 - [SmartScaleConnect](https://github.com/AlexxIT/SmartScaleConnect) - Sync smart scale data between different ecosystems  
   ![](https://img.shields.io/github/stars/AlexxIT/SmartScaleConnect?style=flat-square&logo=github)
 - [MorphNumbers](https://github.com/AlexxIT/MorphNumbers) - Компонент Home Assistant для работы с числительными в Jinja2  
-  ![](https://img.shields.io/github/stars/AlexxIT/SmartScaleConnect?style=flat-square&logo=github)
+  ![](https://img.shields.io/github/stars/AlexxIT/MorphNumbers?style=flat-square&logo=github)
 
 ## Other projects
 
