@@ -50,6 +50,8 @@
   ![](https://img.shields.io/github/stars/AlexxIT/SmartScaleConnect?style=flat-square&logo=github)
 - [MorphNumbers](https://github.com/AlexxIT/MorphNumbers) - Компонент Home Assistant для работы с числительными в Jinja2  
   ![](https://img.shields.io/github/stars/AlexxIT/MorphNumbers?style=flat-square&logo=github)
+- [FasterWhisper](https://github.com/AlexxIT/FasterWhisper) - Home Assistant integration with a local Speech-to-Text engine  
+  ![](https://img.shields.io/github/stars/AlexxIT/FasterWhisper?style=flat-square&logo=github)
 
 ## Other projects
 
